@@ -1,1 +1,14 @@
 # PENETRATION-TESTING-TOOLKIT
+
+*Company*: CODTECH IT SOLUTION
+
+*Name*: SEHTEJ SINGH
+
+*Itern ID*: : CT04DH922
+
+*Domain*: CYBERSECURITY AND ETHICAL HACKING
+
+*Duration*: 4 Week
+
+*Mentor*: Neela Santosh
+
